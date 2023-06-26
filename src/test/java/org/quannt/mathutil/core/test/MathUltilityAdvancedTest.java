@@ -24,7 +24,7 @@ public class MathUltilityAdvancedTest {
         Object testData[][] = {{0, 1},
         {1, 1},
         {2, 2},
-        {4, 24},
+        {4, 240},
         {5, 1200}};
 
         return testData;
